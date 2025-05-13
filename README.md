@@ -26,19 +26,19 @@ Este projeto implementa um sistema de monitoramento de nível de água baseado e
 
 ## 🔄 Fluxograma
 
-![Fluxograma](imagens/fluxo.png)
+![Fluxograma](Imagens/fluxo.png)
 
 ---
 
 ## 📈 Gráfico de Tempo de Resposta
 
-![Gráfico](imagens/grafico_tempo.png)
+![Gráfico](Imagens/grafico_tempo.png)
 
 ---
 
 ## 💡 Como testar
 
-Você pode testar esse projeto diretamente no simulador Wokwi com o código disponível na pasta `codigo/`. Basta colar no `sketch.ino` e ajustar a distância no sensor HC-SR04.
+Você pode testar esse projeto diretamente no simulador Wokwi com o código disponível na pasta `Codigo/`. Basta colar no `sketch.ino` e ajustar a distância no sensor HC-SR04.
 
 ---
 
@@ -50,7 +50,7 @@ Você pode testar esse projeto diretamente no simulador Wokwi com o código disp
 
 ## 📁 Código-fonte
 
-O código-fonte está disponível em `/codigo/monitoramento_nivel.ino`.
+O código-fonte está disponível em `/Codigos/monitoramento_nivel.ino`.
 
 ---
 
