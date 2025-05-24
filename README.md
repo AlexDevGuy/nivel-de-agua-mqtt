@@ -69,9 +69,7 @@ Você pode testar este projeto diretamente no simulador Wokwi, que permite a sim
 
 ## 🔗 Vídeo de Demonstração
 
-Assista a uma demonstração completa do projeto, incluindo o funcionamento do hardware no Wokwi, o código e a comunicação MQTT em tempo real.
-
-[Assista ao vídeo]([https://youtu.be/sCvAOcCpXX4](https://youtu.be/sCvAOcCpXX4))]
+[Assista ao vídeo no YouTube](https://youtu.be/sCvAOcCpXX4)
 
 ---
 
