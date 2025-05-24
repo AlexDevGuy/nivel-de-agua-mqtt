@@ -15,14 +15,6 @@ Este projeto implementa um sistema de monitoramento de nível de água baseado e
 
 ---
 
-## ⚙️ Diagrama de Montagem
-
-A figura abaixo ilustra o esquema de montagem do protótipo no simulador Wokwi, utilizando o ESP32, o sensor HC-SR04 e o LED de alerta.
-
-[montagem_wokwi.jpeg]
-
----
-
 ## 📊 Funcionalidade
 
 Este sistema monitora continuamente o nível de água em reservatórios:
@@ -36,6 +28,14 @@ Este sistema monitora continuamente o nível de água em reservatórios:
 - `CRITICO`: Nível de água alto (distância menor que 10 cm).
 - `NORMAL`: Nível de água dentro da faixa aceitável.
 - `LEITURA_FALHA`: O sensor não conseguiu obter uma leitura válida (por exemplo, objeto fora de alcance, falha na leitura).
+
+---
+
+## ⚙️ Diagrama de Montagem
+
+A figura abaixo ilustra o esquema de montagem do protótipo no simulador Wokwi, utilizando o ESP32, o sensor HC-SR04 e o LED de alerta.
+
+![Diagrama de Montagem no Wokwi](Imagens/montagem_wokwi.jpeg)
 
 ---
 
