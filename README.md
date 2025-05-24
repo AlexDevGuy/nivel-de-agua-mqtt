@@ -19,7 +19,7 @@ Este projeto implementa um sistema de monitoramento de nível de água baseado e
 
 A figura abaixo ilustra o esquema de montagem do protótipo no simulador Wokwi, utilizando o ESP32, o sensor HC-SR04 e o LED de alerta.
 
-![Diagrama de Montagem no Wokwi](montagem_wokwi.jpeg)
+[montagem_wokwi.jpeg]
 
 ---
 
