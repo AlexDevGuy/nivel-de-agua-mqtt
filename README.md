@@ -35,7 +35,7 @@ Este sistema monitora continuamente o nível de água em reservatórios:
 
 O fluxograma a seguir detalha a lógica de funcionamento do sistema, desde a inicialização até a publicação contínua dos dados e o acionamento do alerta.
 
-![Fluxograma](Imagens/fluxo.png)
+![Fluxograma](Imagens/fluxo.jpeg)
 
 ---
 
@@ -43,7 +43,7 @@ O fluxograma a seguir detalha a lógica de funcionamento do sistema, desde a ini
 
 Este gráfico visualiza os tempos de resposta medidos, comparando a rapidez do acionamento do LED e da operação de envio MQTT.
 
-![Gráfico](Imagens/grafico_tempo.png)
+![Gráfico](Imagens/grafico_tempo.jpeg)
 
 ---
 
